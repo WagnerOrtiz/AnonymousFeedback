@@ -1,0 +1,134 @@
+{
+  "ComponentIndexes": {
+    "Header": 2,
+    "Header_1": 1
+  },
+  "ControlUniqueIds": {
+    "App": 1,
+    "Attachments_DataCard1": 24,
+    "Button1": 32,
+    "Button2": 30,
+    "Container1": 7,
+    "Container2": 29,
+    "DataCardKey2": 11,
+    "DataCardKey3": 16,
+    "DataCardKey4": 21,
+    "DataCardKey5": 26,
+    "DataCardValue2": 12,
+    "DataCardValue3": 17,
+    "DataCardValue4": 22,
+    "DataCardValue5": 27,
+    "Descricao_DataCard1": 19,
+    "ErrorMessage2": 13,
+    "ErrorMessage3": 18,
+    "ErrorMessage4": 23,
+    "ErrorMessage5": 28,
+    "Form": 8,
+    "FormScreen": 5,
+    "Header": 3,
+    "Header_1": 6,
+    "Label1": 4,
+    "Projeto_DataCard1": 14,
+    "Screen2": 31,
+    "StarVisible2": 10,
+    "StarVisible3": 15,
+    "StarVisible4": 20,
+    "StarVisible5": 25,
+    "Tipo de Feedback_DataCard1": 9
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/12/2022 17:10:58",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "f394fb04-9dbb-4a23-bc77-c2f1e72f108b": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/0ff108ed6b2947289e8cc0f2e2885a86\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {
+    "logo": "10fbc4c2-6eed-4b13-a9e9-bfd1e76f32d5.jpg"
+  },
+  "LocalResourceRootPaths": {
+    "logo": "https://docserverpwaprodwus.blob.core.windows.net/6703bc49-5d3b-4802-a0bd-4a28536b0444-1/resource/Assets0Images010fbc4c2-6eed-4b13-a9e9-bfd1e76f32d5.jpg?sv=2017-04-17&sr=b&sig=QpX5DV1pxYeQHE3XyMdbT%2BtfJCFQ0b2GkNUayjUMyno%3D&spr=https&se=2022-07-13T17%3A24%3A06Z&sp=r"
+  },
+  "OldLogoFileName": "zwbnhmdx.jpg",
+  "OrderComponentMetadata": {
+    "f874eeae8a6b48cfbda0b3c8725a3d7f": 0
+  },
+  "OrderComponentTemplate": {
+    "f874eeae8a6b48cfbda0b3c8725a3d7f": 0
+  },
+  "OrderDataSource": {
+    "ComboBoxSample": 1,
+    "DropDownSample": 2,
+    "Sidebacks Requests": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "attachments": 5,
+    "button": 6,
+    "dropdown": 3,
+    "form": 2,
+    "groupContainer": 1,
+    "label": 0,
+    "text": 4
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Attachments_DataCard1": 19,
+    "Button1": 0,
+    "Button2": 25,
+    "Container1": 2,
+    "Container2": 24,
+    "DataCardKey2": 6,
+    "DataCardKey3": 11,
+    "DataCardKey4": 16,
+    "DataCardKey5": 21,
+    "DataCardValue2": 7,
+    "DataCardValue3": 12,
+    "DataCardValue4": 17,
+    "DataCardValue5": 22,
+    "Descricao_DataCard1": 14,
+    "ErrorMessage2": 8,
+    "ErrorMessage3": 13,
+    "ErrorMessage4": 18,
+    "ErrorMessage5": 23,
+    "Form": 3,
+    "FormScreen": 0,
+    "Header": 0,
+    "Header_1": 1,
+    "Label1": 26,
+    "Projeto_DataCard1": 9,
+    "Screen2": 0,
+    "StarVisible2": 5,
+    "StarVisible3": 10,
+    "StarVisible4": 15,
+    "StarVisible5": 20,
+    "Tipo de Feedback_DataCard1": 4
+  },
+  "ResourcesJsonIndices": {
+    "Image-logo": 0,
+    "Image-SampleImage": 1
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.3232173,
+    "ControlCount": {
+      "attachments": 1,
+      "button": 2,
+      "dropdown": 1,
+      "f874eeae8a6b48cfbda0b3c8725a3d7f": 2,
+      "form": 1,
+      "groupContainer": 2,
+      "label": 13,
+      "screen": 2,
+      "text": 2,
+      "typedDataCard": 4
+    },
+    "DeserializationLoadTime": 2.0302533,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

@@ -1,0 +1,10 @@
+Screen2 As screen:
+    Fill: =Colors.backGround
+
+    Button1 As button:
+        OnSelect: =NewForm(Form);Navigate(FormScreen)
+        Text: ="Button"
+        X: =608
+        Y: =364
+        ZIndex: =1
+

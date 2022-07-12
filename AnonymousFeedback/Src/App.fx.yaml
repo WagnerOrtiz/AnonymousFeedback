@@ -1,0 +1,6 @@
+App As appinfo:
+    BackEnabled: =false
+    OnStart: |-
+        =Set(Colors, {primary: RGBA(20, 179, 208, 1), backGround: RGBA(26,26,26,1)})
+    StartScreen: =
+

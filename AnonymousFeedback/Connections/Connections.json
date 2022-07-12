@@ -1,0 +1,30 @@
+{
+  "f394fb04-9dbb-4a23-bc77-c2f1e72f108b": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1578/1.0.1578.2813/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://datasidetecnologia.sharepoint.com/sites/EquipedoWagnao2": {
+        "dataSources": {
+          "Sidebacks Requests": {
+            "tableName": "658a1433-fd49-43e5-8cc7-3f87897b06c8"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Sidebacks Requests"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "f394fb04-9dbb-4a23-bc77-c2f1e72f108b"
+  }
+}
